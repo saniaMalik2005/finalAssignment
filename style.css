@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    width: 1551px;
+    width: 1500px;
     height:3804px ;
     background-color:antiquewhite ;
 }
@@ -53,7 +53,7 @@ ul{
 
 .s2{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("./assets/banner.jpg");
-    height:100vh ;
+    height:100vh;
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
@@ -79,5 +79,4 @@ ul{
 .div2 button{
     width: 50%;
     margin: 150px;
-
 }
