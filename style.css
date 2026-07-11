@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    width: 1500px;
+    width: 1551px;
     height:3804px ;
     background-color:antiquewhite ;
 }
@@ -53,7 +53,8 @@ nav{
 
 .s2{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("./assets/banner.jpg");
-    height:100vh;
+    /* height:100vh; */
+    height: 786px;
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
