@@ -17,7 +17,7 @@ nav{
     align-items: center;
 
 }
-ul{
+.ul1{
     list-style: none;
     display: flex;
     gap: 20px;
@@ -47,7 +47,7 @@ ul{
     border-radius: 20px;
     font-size: larger;
     font-weight: bold;
-    border: ;
+ 
 }
 /* second part */
 
@@ -82,12 +82,7 @@ ul{
 }
 
 /* third section */
-/* .sec3{
-    display: grid;
-    justify-content:flex-start;
-    margin: 100px;
-    gap: 20px;
-} */
+
 .img3{
    width: 642px; 
    height: 324px;
@@ -100,7 +95,7 @@ ul{
    display:flex;
    justify-content: center;
    gap:40px;
-   
+   padding-bottom: 80px;
 }
 .border3{
     border: 5px;
@@ -108,3 +103,13 @@ ul{
     margin-bottom: 30px;
 }
 
+/* fourth section */
+.sec4{
+    background-color:beige;
+    text-align: center;
+   
+}
+.d4{
+    display: flex;
+    justify-content: space-evenly;
+}
