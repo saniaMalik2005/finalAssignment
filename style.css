@@ -80,3 +80,31 @@ ul{
     width: 50%;
     margin: 150px;
 }
+
+/* third section */
+/* .sec3{
+    display: grid;
+    justify-content:flex-start;
+    margin: 100px;
+    gap: 20px;
+} */
+.img3{
+   width: 642px; 
+   height: 324px;
+}
+.h23{
+    text-align: center;
+   margin: 40px;
+}
+.div33{
+   display:flex;
+   justify-content: center;
+   gap:40px;
+   
+}
+.border3{
+    border: 5px;
+    border-style:dotted;
+    margin-bottom: 30px;
+}
+
